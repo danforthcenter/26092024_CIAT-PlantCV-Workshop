@@ -1,4 +1,4 @@
-# 26092024_CIAT-PlantCV-Workshop
+# CIAT PlantCV Workshop
 Here you will find resources to participate in our interactive workshop focused on using PlantCV to develop pythonic workflows to analyze your plant phenomic data. In this workshop, you will engage in instructor- and self-guided Jupyter notebook activities to obtain training in the following directories:
 
 1. Single-Plant-Image-Analysis: Learn the fundamentals of image analysis and how to develop a workflow of a single plant image of *Arabidopsis thaliana* using PlantCV. You will learn the elements that make up an image and how PlantCV using image data to extract plant features and data.
